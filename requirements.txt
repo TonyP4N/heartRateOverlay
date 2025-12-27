@@ -1,0 +1,6 @@
+python-dotenv
+pywin32
+selenium
+webdriver-manager
+pystray
+Pillow
